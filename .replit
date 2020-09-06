@@ -1,1 +1,2 @@
+run = "chmod 777 solution.sh"
 run = "./solution.sh"
